@@ -9,4 +9,5 @@ You have found the release repository for project Honey, if you shouldn't be her
 
 ## *REPORT ALL BUGS PLEASE!*
 Trade offer...You get to try the game, but you must report all bugs. Do you accept?
+
 [Bugs go here](https://github.com/mmaalex22112/Honey/issues).
