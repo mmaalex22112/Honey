@@ -10,7 +10,7 @@ Trade offer...You get to try the game, but you must report all bugs. Do you acce
  1. Download the zipped repository by pressing the green button that says "Code" 
  2. Unzip the package 
  3. Chose between Bleeding Edge (the most updated build, likely needs testers) or Stable (the previous release). 
- 4.  Run "Project Honey.exe" the application.
+ 4.  Run "Project Honey.exe" application.
  5. Delete when finished
 
 
