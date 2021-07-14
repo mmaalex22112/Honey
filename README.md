@@ -6,6 +6,10 @@ Trade offer...You get to try the game, but you must report all bugs. Do you acce
 
 [Bugs go here](https://github.com/mmaalex22112/Honey/issues).
 
+## *Bleeding Edge Notes*
+ 1. Wall running feature is mostly implemented. 
+ 2. I know about the error when touching the red walls, please do not report it.
+
 ## How to download project Honey
  1. Download the zipped repository by pressing the green button that says "Code" 
  2. Unzip the package 
